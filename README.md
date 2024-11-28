@@ -1,4 +1,4 @@
-Exium
+# Exium
 
 Exium is a Minecraft modpackpack designed to maximize performance on Apple Silicon Macs. By leveraging the unique architecture of Apple's M1, M2, and other Apple Silicon chips, Exium enhances gameplay smoothness and frame rates for a better experience on macOS.
 
